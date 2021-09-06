@@ -1,0 +1,13 @@
+name: Course_Project
+title: Course_Project
+username:
+account: leodantas
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4597441
+bundleId: 5003100
+url: https://leodantas.shinyapps.io/Course_Project/
+when: 1630890150.66703
+lastSyncTime: 1630890150.66704
+asMultiple: FALSE
+asStatic: FALSE
